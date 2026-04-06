@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi,I'm YangYang 
+My name is Yangyang. I am currently a second-year graduate student. I have a solid foundation in artificial intelligence algorithms and strong engineering implementation capabilities, enabling me to integrate cutting-edge model research with practical business scenarios. In terms of research directions, I have long focused on areas such as computer vision, multimodal learning, and large model applications. I have systematically studied and practiced mainstream models such as CNN, Transformer, Attention, and Diffusion Model, and have also accumulated project experience in image restoration, object detection, and Agent system development. In terms of practical abilities, I not only pay attention to the algorithms themselves but also attach importance to the system implementation and application closed loop. I possess both research thinking and engineering awareness. Whether in algorithm development or large model application development, I can start from the essence of the problem, paying attention not only to model performance but also to system feasibility and user experience. Additionally, I have strong learning and adaptability, enabling me to quickly enter new fields and continuously advance. I have good technical transfer and continuous growth capabilities. Overall, I am not only someone who can develop models and run experiments, but also an AI engineer who can understand business needs, complete system construction, and promote the true application of technology.
+## 🔧 Technologies & Tools
+- Python
+- Java
+- Deep Learning
+- Computer Vision
+- Linux
 <!--
 **Sunny-Xu318/Sunny-xu318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
